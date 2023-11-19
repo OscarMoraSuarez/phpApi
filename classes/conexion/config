@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server":"localhost",
+        "user":"root",
+        "password":"hetchelzican",
+        "database":"phpapi",
+        "port":"3306"
+    }
+}
